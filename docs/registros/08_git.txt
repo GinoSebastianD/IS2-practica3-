@@ -1,0 +1,7 @@
+*   8fbdd6f (HEAD -> main, origin/main) merge: integrar construccion automatica verificada
+|\  
+| * b1a432e (origin/codex/construccion-automatica, codex/construccion-automatica) build: incorporar Maven Wrapper y ocho pruebas unitarias
+|/  
+* c78ba51 feat: crear gestor de tareas y modelo Maven
+  codex/construccion-automatica b1a432e build: incorporar Maven Wrapper y ocho pruebas unitarias
+* main                          8fbdd6f merge: integrar construccion automatica verificada

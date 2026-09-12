@@ -1,0 +1,19 @@
+GESTOR DE TAREAS | Practica 03 | v1.0.0
+[
+  {
+    "id": 1,
+    "titulo": "Configurar Maven",
+    "completada": true
+  },
+  {
+    "id": 2,
+    "titulo": "Construir y probar el proyecto",
+    "completada": true
+  },
+  {
+    "id": 3,
+    "titulo": "Documentar los resultados",
+    "completada": false
+  }
+]
+Total de tareas: 3

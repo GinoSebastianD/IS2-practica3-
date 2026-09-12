@@ -1,0 +1,16 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] ------------------< pe.edu.practica03:gestor-tareas >-------------------
+[INFO] Building Gestor de tareas - Practica 03 1.0.0
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- wrapper:3.3.2:wrapper (default-cli) @ gestor-tareas ---
+[INFO] Unpacked only-script type wrapper distribution org.apache.maven.wrapper:maven-wrapper-distribution:zip:only-script:3.3.2
+[INFO] Configuring .mvn/wrapper/maven-wrapper.properties to use Maven 3.9.16 and download from https://repo.maven.apache.org/maven2
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  4.179 s
+[INFO] Finished at: 2026-09-11T19:51:01-05:00
+[INFO] ------------------------------------------------------------------------

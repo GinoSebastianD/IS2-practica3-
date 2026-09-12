@@ -1,0 +1,7 @@
+
+Name                             Length
+----                             ------
+gestor-tareas-1.0.0.jar          320597
+original-gestor-tareas-1.0.0.jar   5661
+
+

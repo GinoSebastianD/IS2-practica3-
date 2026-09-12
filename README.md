@@ -44,7 +44,8 @@ Get-Content target\surefire-reports\pe.edu.practica03.GestorTareasTest.txt
 - `target/gestor-tareas-1.0.0.jar`: ejecutable generado al construir.
 - `target/surefire-reports/`: resultados de las pruebas.
 - `pom.xml`: modelo de construcción solicitado.
-- `docs/`: informe, tutorial y evidencias de la ejecución.
+- [Informe PDF con capturas](docs/Informe_Practica_03_Gino_Sebastian_Diaz_Neyra.pdf).
+- [Tutorial paso a paso](docs/Tutorial_Practica_03.md), [capturas](docs/capturas) y [registros de ejecución](docs/registros).
 - Ramas `main` y `codex/construccion-automatica`: historial de desarrollo y construcción.
 
 El programa de demostración imprime tres tareas: dos completadas y una pendiente. Los datos se mantienen solo en memoria.
